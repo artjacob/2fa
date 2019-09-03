@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"*-lock.*": true,
+		"**/node_modules": true,
+		"desktop.ini": true,
+		".vscode": true,
+		".gitignore": true,
+		"package.json": true
+	}
+}
