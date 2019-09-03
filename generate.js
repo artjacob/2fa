@@ -3,7 +3,7 @@ const QRCode = require("qrcode");
 const fs = require("fs-extra");
 
 // Gera segredo
-let secret = speakeasy.generateSecret({ "name": "Hitchflix (aacj03@gmail.com)" });
+let secret = speakeasy.generateSecret({ "name": "Nome do serviço" });
 
 // Gera QR Code
 QRCode.toFile("data/qrcode.png", secret["otpauth_url"]);
