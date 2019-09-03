@@ -1,6 +1,6 @@
 # 2fa
 
-Script super simples de verificação em duas etapas, seguindo o guia do [David Walsh](https://davidwalsh.name/2fa), e usando o [speakeasy](https://github.com/speakeasyjs/speakeasy) para gerar os segredos e o [node-qrcode](https://github.com/soldair/node-qrcode) para gerar o QR Code.
+Script CLI super simples de verificação em duas etapas, seguindo o guia do [David Walsh](https://davidwalsh.name/2fa), e usando o [speakeasy](https://github.com/speakeasyjs/speakeasy) para gerar os segredos e o [node-qrcode](https://github.com/soldair/node-qrcode) para gerar o QR Code.
 
 ## Como testar
 
