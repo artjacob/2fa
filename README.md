@@ -16,4 +16,4 @@ Agora, **faça a verificação** rodando esse comando, substituindo os números 
 
 ```node verify.js 123456```
 
-Se o segredo e o token baterem, o sccript vai retornar ```true```.
+Se o segredo e o token baterem, o script vai retornar ```true```.
